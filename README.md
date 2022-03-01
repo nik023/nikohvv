@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikohvv
+- 👋 Hi, I’m @nik023
 - 👀 I’m interested in Linux OS and Web developing 
 - 🌱 I’m currently learning basic linux commands
 - 💞️ I’m looking to collaborate on top companies today
